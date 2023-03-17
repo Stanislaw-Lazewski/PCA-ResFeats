@@ -42,5 +42,8 @@ Run `src/main.py` to repeat my experiments or adapt the function calls to your o
 python3 src/main.py
 ```
 
+### Experiments results
+The results of the experiments are available here: https://aghedupl-my.sharepoint.com/:f:/g/personal/slazewsk_agh_edu_pl/EpE8LQmXBIpDpVU44eYjuMYBMBCdbs3gO0EtEz9LIfo02w?e=TaumAv
+
 ## License
 MIT
